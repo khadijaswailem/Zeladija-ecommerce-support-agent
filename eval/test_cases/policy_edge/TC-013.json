@@ -1,0 +1,18 @@
+{
+  "conversation_id": "TC-013",
+  "category": "policy_edge",
+  "description": "Refund at exact threshold $150 - boundary test",
+  "turns": [
+    {"role": "user", "content": "I need a refund for exactly $150 for my order. The item arrived damaged."},
+    {"role": "assistant", "content": ""}
+  ],
+  "expected_intent": "POLICY_RETURNS",
+  "expected_escalation": true,
+  "expected_policy_compliant": true,
+  "guardrail_flags_expected": {
+    "injection_detected": false,
+    "policy_violation": true,
+    "toxic_input": false
+  },
+  "source": "hand-crafted"
+}

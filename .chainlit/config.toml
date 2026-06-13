@@ -1,0 +1,15 @@
+[project]
+enable_telemetry = false
+
+[features]
+prompt_playground = false
+edit_message = false
+
+[UI]
+name = "Zeladija Support"
+description = "AI-powered customer support for Zeladija Electronics"
+default_collapse_content = false
+default_expand_messages = true
+
+[meta]
+generated_by = "Zeladija AI Support Agent"

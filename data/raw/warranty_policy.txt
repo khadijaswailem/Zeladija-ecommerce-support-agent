@@ -1,0 +1,93 @@
+Zeladija Electronics — Product Warranty Policy
+Last Updated: June 2026
+
+────────────────────────────────────────────────────────
+WARRANTY COVERAGE PERIODS
+────────────────────────────────────────────────────────
+
+Zeladija provides a limited manufacturer's warranty on all products sold
+directly through Zeladija.com and authorized Zeladija retailers.
+
+  • Electronics (laptops, monitors, cameras, audio devices, smart home):
+    1-Year Limited Warranty from date of purchase.
+
+  • Accessories (cables, hubs, chargers, mounts, stands, wrist rests):
+    90-Day Limited Warranty from date of purchase.
+
+  • Consumables and filters: No warranty coverage.
+
+────────────────────────────────────────────────────────
+WHAT IS COVERED
+────────────────────────────────────────────────────────
+The Zeladija Limited Warranty covers defects in materials and workmanship
+under normal use during the warranty period. Covered issues include:
+
+  • Component failure not caused by external damage (e.g. screen backlight
+    failure, battery not holding charge from day one, port stops working)
+  • Manufacturing defects detected within the warranty period
+  • Firmware issues introduced by official Zeladija firmware updates
+  • Structural defects in the chassis or enclosure under normal handling
+
+────────────────────────────────────────────────────────
+WHAT IS NOT COVERED
+────────────────────────────────────────────────────────
+The warranty does NOT cover:
+
+  • Physical damage: cracks, dents, broken ports caused by drops or impacts
+  • Liquid or water damage of any kind, even on IPX-rated devices if the
+    damage is beyond the stated rating
+  • Damage from use outside specified operating conditions (voltage surges,
+    extreme temperatures, etc.)
+  • Cosmetic damage: scratches, scuffs, discoloration from normal use
+  • Damage from unauthorized modifications, non-official firmware, or
+    third-party repairs
+  • Products with removed, altered, or illegible serial number labels
+  • Accessories sold separately (unless they are the claimed defective item)
+  • Normal wear and tear (e.g. gradual battery capacity reduction over time)
+
+────────────────────────────────────────────────────────
+HOW TO FILE A WARRANTY CLAIM
+────────────────────────────────────────────────────────
+
+Step 1: Visit Zeladija.com/warranty or use the in-app support chat.
+Step 2: Log in and select "File a Warranty Claim."
+Step 3: Enter:
+        • Order number (from your confirmation email)
+        • Product serial number (found on the box or product label)
+        • Clear description of the defect
+        • Photos or video demonstrating the issue (required)
+Step 4: Our warranty team will review your claim and respond via email
+        within 1–2 business days.
+Step 5: If approved, you will receive:
+        • A prepaid return shipping label, and
+        • A replacement unit or store credit, depending on stock availability.
+
+────────────────────────────────────────────────────────
+WARRANTY CLAIM TURNAROUND TIME
+────────────────────────────────────────────────────────
+  • Claim review: 1–2 business days
+  • Return shipping transit time: 2–5 business days
+  • Inspection and processing: 2–3 business days
+  • Replacement shipment: 1–3 business days after approval
+
+Total estimated turnaround: 2–3 weeks from claim submission to receiving
+a replacement. Rush processing is not available for standard warranty claims.
+
+────────────────────────────────────────────────────────
+LIMITATIONS OF LIABILITY
+────────────────────────────────────────────────────────
+The Zeladija Limited Warranty is the sole and exclusive warranty provided.
+Zeladija disclaims all other express or implied warranties, including
+implied warranties of merchantability or fitness for a particular purpose,
+to the maximum extent permitted by applicable law.
+
+Zeladija's liability under this warranty is limited to repair or replacement
+of the defective product. Zeladija is not responsible for data loss,
+business interruption, or incidental/consequential damages.
+
+────────────────────────────────────────────────────────
+QUESTIONS?
+────────────────────────────────────────────────────────
+Contact our Warranty Team at warranty@Zeladija.com or call 1-800-Zeladija
+(Monday–Friday, 9 AM–6 PM ET). Include your order number in all
+correspondence to expedite your claim.

@@ -1,0 +1,10 @@
+.env
+venv/
+data/chroma_db/
+data/raw/orders.json
+eval/results/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+logs/
+data/processed/

@@ -1,0 +1,90 @@
+[
+  {
+    "intent": "cancel_order",
+    "examples": [
+      "question about cancelling order {{Order Number}}",
+      "i have a question about cancelling oorder {{Order Number}}",
+      "i need help cancelling puchase {{Order Number}}",
+      "I need to cancel purchase {{Order Number}}",
+      "I cannot afford this order, cancel purchase {{Order Number}}"
+    ],
+    "response": "I'd be happy to help you with canceling your order. To proceed, please provide your order ID (found in your confirmation email) and we'll check whether the order is still eligible for cancellation. Orders that have already been shipped cannot be canceled, but you can initiate a return once the item arrives."
+  },
+  {
+    "intent": "change_shipping_address",
+    "examples": [
+      "give me information about a delivery address modification",
+      "need to update my address",
+      "I entered a wrong address, update it",
+      "i have an trouble editing the address",
+      "help modifying the shipping address"
+    ],
+    "response": "I'm happy to help! If you need information on modifying your delivery address, we are here to assist you. Simply provide us with the new address details, and our team will ensure that your package is delivered to the updated location."
+  },
+  {
+    "intent": "check_refund_policy",
+    "examples": [
+      "i do not know hoow i could check ur reimbursement policy",
+      "help me check your money bck guarantee",
+      "need assistance to check in what cases can i request refunds",
+      "can I check in what cases can I ask to be reimbursed?",
+      "could you show me in what situations can I ask for refunds?"
+    ],
+    "response": "I'm cognizant of the fact that you're unsure about how to access our reimbursement policy. No worries, I'm here to guide you through it. To view our reimbursement policy, please visit our website and navigate to the \"FAQ\" or \"Terms and Conditions\" section. There, you should find detailed information about our refund process, eligibility criteria, and any specific requirements. If you have any specific questions or need further clarification, don't hesitate to reach out to our customer support team who will be more than happy to assist you. Is there anything else I can help you with?"
+  },
+  {
+    "intent": "contact_human_agent",
+    "examples": [
+      "I do not understand you, help me chatting with someone",
+      "can I talk to a person?",
+      "I can't speak with a live agent",
+      "how do i contact someone",
+      "can ya help me contactsomebody"
+    ],
+    "response": "Thank you for reaching out! I'm sorry if there seems to be a misunderstanding. I'm here to assist you and connect you with a human agent who can help clarify any confusion and answer any questions you may have. Just give me a moment to find the right representative for you. Your satisfaction is our priority, and we'll ensure that your concerns are addressed."
+  },
+  {
+    "intent": "delivery_period",
+    "examples": [
+      "need help seeing when my packageis going to arrive",
+      "I need to see how soon can I expect my damn order, help me",
+      "I don't know how to see how soon can I expect my parcel",
+      "help me to check how soon can I expect my article",
+      "I need to check how long it takes for my shipment to arrive"
+    ],
+    "response": "Shipping times depend on the method selected at checkout. Standard Shipping takes 5\u20137 business days (free on orders over $50, otherwise $5.99). Express Shipping takes 2\u20133 business days ($12.99 flat). Overnight Shipping delivers the next business day ($24.99 flat). Orders placed before 2:00 PM ET on a business day ship the same day. To check the delivery estimate for a specific order, please provide your order ID and we'll look it up for you."
+  },
+  {
+    "intent": "get_invoice",
+    "examples": [
+      "i dont know what i need to do to download my bill #85632",
+      "want assistance to download invoice #85632",
+      "what do I need to do to get my bill from {{Person Name}}?",
+      "I don't know what I need to do to get the bill #12588",
+      "need help getting the invoices from {{Person Name}}"
+    ],
+    "response": "To download your invoice, log in to your account at Zeladija.com and navigate to Order History. Select the relevant order and click 'Download Invoice' \u2014 it will be available as a PDF. If you placed the order as a guest, check your original order confirmation email, which includes a link to your invoice. For further help, contact us at support@Zeladija.com."
+  },
+  {
+    "intent": "payment_issue",
+    "examples": [
+      "i cant make a payment where can i notify of an error",
+      "problem with payments",
+      "can you help me notifying of errors with online payment?",
+      "I do not know how I can notify of a payment issue",
+      "can uhelpme informing of a problem with payments"
+    ],
+    "response": "I'm sorry to hear you're experiencing a payment issue. Please contact our support team at support@Zeladija.com or use the in-app chat assistant (available Monday\u2013Friday, 9 AM\u20136 PM ET). When you reach out, include your order ID and a brief description of the error so we can resolve it as quickly as possible."
+  },
+  {
+    "intent": "track_order",
+    "examples": [
+      "needx help to check the ETA of purchase {{Order Number}}",
+      "ETA of purchase {{Order Number}}",
+      "need to check the eta of order {{Order Number}}",
+      "I cannot see purchase {{Order Number}} current status",
+      "can uhelp me to check the fucking eta of the order {{Order Number}}"
+    ],
+    "response": "To track your order, visit https://track.Zeladija.com and enter your order ID or tracking number. Your tracking number is emailed to you once your order is picked up by the carrier. If you'd like us to check the status directly, please share your order ID and we'll look it up for you right now."
+  }
+]

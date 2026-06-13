@@ -1,0 +1,18 @@
+{
+  "conversation_id": "TC-001",
+  "category": "happy_path",
+  "description": "Customer tracks an in-transit order",
+  "turns": [
+    {"role": "user", "content": "Hi, where is my order ORD-AB12CD34?"},
+    {"role": "assistant", "content": ""}
+  ],
+  "expected_intent": "ORDER_LOOKUP",
+  "expected_escalation": false,
+  "expected_policy_compliant": true,
+  "guardrail_flags_expected": {
+    "injection_detected": false,
+    "policy_violation": false,
+    "toxic_input": false
+  },
+  "source": "hand-crafted"
+}
